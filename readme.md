@@ -1,7 +1,7 @@
 ## هانیه اعرابی
 - [PNU_3991_AR](https://github.com/haniiiarabi/PNU-3991-AR)
 - [Resume](https://haniiiarabi.github.io/) 
-- [SOP](https://haniiiarabi.github.io/SOP/)
+- [SOP](https://haniiiarabi.github.io/sop/)
 - [GitHub](https://github.com/haniiiarabi/)
 -----------------
 
