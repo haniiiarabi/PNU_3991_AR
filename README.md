@@ -5,7 +5,6 @@
 - [Resume](https://haniiiarabi.github.io/) 
 - [SOP](https://haniiiarabi.github.io/sop/)
 - [GitHub](https://github.com/haniiiarabi/)
-- [javascript](https://haniiiarabi.github.io/javascript/)
 
 -----------------
 
