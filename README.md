@@ -6,7 +6,7 @@
 - [SOP](https://haniiiarabi.github.io/sop/)
 - [javascript Certificate](js.jpg)
 - [GitHub](https://github.com/haniiiarabi/)
-
+- [jlord patchwork](jlord.pdf)
 -----------------
 
 1. G-R02
