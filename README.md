@@ -11,7 +11,7 @@
 http://rave.ohiolink.edu/etdc/view?acc_num=osu1587147304509822
 The method and research of this source is on page 16
 
-- [latex](https://haniiiarabi.github.io/PNU_3991_AR/)
+- [latex10](https://github.com/haniiiarabi/PNU_3991_AR/commit/929afea6b77a675b62b88540d2246da7bdd3bd01)
 
 
 - [latex tex](https://github.com/ozrahosseini/PNU_3991_AR/blob/main/e.hosseini1.tex)
