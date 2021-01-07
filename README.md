@@ -12,10 +12,13 @@ http://rave.ohiolink.edu/etdc/view?acc_num=osu1587147304509822
 The method and research of this source is on page 16
 ## latex
 - [latex10](https://github.com/haniiiarabi/PNU_3991_AR/blob/main/10.pdf)
-- [latex10](https://github.com/haniiiarabi/PNU_3991_AR/blob/main/11.pdf)
-- [latex10](https://github.com/haniiiarabi/PNU_3991_AR/blob/main/12.pdf)
+- [latex11](https://github.com/haniiiarabi/PNU_3991_AR/blob/main/11.pdf)
+- [latex12](https://github.com/haniiiarabi/PNU_3991_AR/blob/main/12.pdf)
+## latex tex
+- [latex tex10](https://github.com/haniiiarabi/PNU_3991_AR/blob/main/10.tex)
+- [latex tex11](https://github.com/haniiiarabi/PNU_3991_AR/blob/main/11.tex)
+- [latex tex12](https://github.com/haniiiarabi/PNU_3991_AR/blob/main/12.tex)
 
-- [latex tex](https://github.com/ozrahosseini/PNU_3991_AR/blob/main/e.hosseini1.tex)
 -----------------
 -----------------
 
