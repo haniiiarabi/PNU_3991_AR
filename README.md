@@ -19,7 +19,7 @@ The method and research of this source is on page 16
 - [latex tex11](https://github.com/haniiiarabi/PNU_3991_AR/blob/main/11.tex)
 - [latex tex12](https://github.com/haniiiarabi/PNU_3991_AR/blob/main/12.tex)
 
-- [ارائه شفاهی] (https://drive.google.com/file/d/1g_upTRKtT1KCuYqtRZxI2HOwta5xDT19/view?usp=drivesdk)
+- [ارائه شفاهی](https://drive.google.com/file/d/1g_upTRKtT1KCuYqtRZxI2HOwta5xDT19/view?usp=drivesdk)
 -----------------
 -----------------
 
