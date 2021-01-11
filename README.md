@@ -21,6 +21,14 @@ The method and research of this source is on page 16
 - [latex tex12](https://github.com/haniiiarabi/PNU_3991_AR/blob/main/12.tex)
 
 - [ارائه شفاهی](https://drive.google.com/file/d/1g_upTRKtT1KCuYqtRZxI2HOwta5xDT19/view?usp=drivesdk)
+
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/haniiiarabi/PNU_3991_AR/blob/main/-General/HA_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/haniiiarabi/PNU_3991_AR/blob/main/-General/HA_GeneralSection_CheckList_AR_3991.pdf)
+##  بخش دروس ارشد
+- [خلاصه ارزیابی درس_روش پژوهش و ارائه](https://github.com/haniiiarabi/PNU_3991_AR/blob/main/-General/HA_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 -----------------
 -----------------
 
