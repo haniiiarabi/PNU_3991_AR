@@ -29,10 +29,10 @@ The method and research of this source is on page 16
 > ارزیابی ها
 
 ##  بخش عمومی
-- [ارزیابی رزومه و انگیزه نامه](https://github.com/haniiiarabi/PNU_3991_AR/blob/main/-General/HA_CV_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی بخش عمومی](https://github.com/haniiiarabi/PNU_3991_AR/blob/main/-General/HA_GeneralSection_CheckList_AR_3991.pdf)
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/haniiiarabi/PNU_3991_AR/blob/main/-General/Ha_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/haniiiarabi/PNU_3991_AR/blob/main/-General/Ha_GeneralSection_CheckList_AR_3991.pdf)
 ##  بخش دروس ارشد
-- [خلاصه ارزیابی درس_روش پژوهش و ارائه](https://github.com/haniiiarabi/PNU_3991_AR/blob/main/-General/HA_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_روش پژوهش و ارائه](https://github.com/haniiiarabi/PNU_3991_AR/blob/main/-General/Ha_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 -----------------
 -----------------
 
