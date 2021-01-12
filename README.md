@@ -7,10 +7,14 @@
 - [javascript Certificate](js.jpg)
 - [GitHub](https://github.com/haniiiarabi/)
 - [jlord patchwork](jlord.pdf)
-## کار گروهی
+# جستجوی منابع دیگر
 - [choose a good engineering dissertation](https://github.com/ozrahosseini/PNU_3991_AR/blob/main/Dissertation_Thesis_Yuxiao_Zhao0417.pdf)
 http://rave.ohiolink.edu/etdc/view?acc_num=osu1587147304509822
 The method and research of this source is on page 16
+# معرفی دروس مشابه در دانشگاههای دیگر
+- [دانشگاه PEPPERDINE در کالیفرنیا](https://seaver.pepperdine.edu/academics/ge/faculty/researchskills.htm)
+- [دانشگاه POLSE ONE در سانفرانسیسکو](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218770)
+
 ## latex
 - [latex10](https://github.com/haniiiarabi/PNU_3991_AR/blob/main/10.pdf)
 - [latex11](https://github.com/haniiiarabi/PNU_3991_AR/blob/main/11.pdf)
